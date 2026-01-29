@@ -6,3 +6,7 @@ Future Additions:
 - Cloud hosted version of Nosi so students don't have to install any software on their machine if they choose not to
 - Improving AI assistant
 - Creating more staff tools for viewing plagiarism issues
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/c880272d-560a-44e4-b26b-8360030d0775" />
+<img width="1908" height="1032" alt="image" src="https://github.com/user-attachments/assets/712efbc3-178f-4d88-b36d-f8a3d20c0f31" />
+
